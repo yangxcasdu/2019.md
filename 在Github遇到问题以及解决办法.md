@@ -6,7 +6,9 @@ Github是一个和论坛很类似的平台，和论坛做对比的话，论坛�
 而Github就像一本活页本，它是公共的，这意味很多人都可以用到它，但是挪出活页本的一页去复印的时候，会显示来源在哪里。
 而且，活页本的好处就是不断更新，对于每一个加入kuikan编辑的伙伴，可以进行权限操作，编辑和加工，相当于就是人人都是版主，
 同时这也Github的功能之一，Working with a team?GitHub is built for collaboration. Set up an organization to improve the way your team works together, and get access to more features. 翻译过来就是说，GitHub是为协作而构建的。建立一个组织来改进团队合作的方式，并获得更多功能。
-  
+
+以下是我最初开始使用Github的遇到的困惑和一些操作，如果你也在最开始使用Github遇到相同的困惑，也许可以给你一些启发，若发现不合理之处，欢迎指正。 
+
 
 ## 遇到的一些问题
 #### 第一个问题：注册
@@ -17,6 +19,8 @@ Github是一个和论坛很类似的平台，和论坛做对比的话，论坛�
 https://www.cnblogs.com/lgx211/p/10113028.html
 尝试了换浏览器从IE换到Chrome，无果。
 关掉电脑自带防火墙，又试了一次，成功，运气太好了！
+
+注册之后，选择账户类型，完成问卷，验证邮箱。这些都比较顺畅。可参考 https://blog.csdn.net/weixin_42423311/article/details/84503654
 
 用时：1个小时。
 
