@@ -49,7 +49,7 @@ https://www.cnblogs.com/lgx211/p/10113028.html
 
 解决办法：进一步百度 https://blog.csdn.net/wait_for_taht_day5/article/details/79587844
 
-1、创建一个仓库![创建一个仓库](http:////github.com/yangxcasdu/2019.md/image/repositories.jpg)
+1、创建一个仓库![创建一个仓库](https://github.com/yangxcasdu/2019.md/blob/master/Images/repositories.jpg)
 
 2、评论
 re
