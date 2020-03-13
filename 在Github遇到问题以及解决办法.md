@@ -4,9 +4,8 @@
 * [注册账号](#第一个问题之注册账号)
 * [页面浏览](#第二个问题之页面浏览)
 * [申请加入](#第三个问题之申请加入)
-* [新手任务](#第四个问题之新手任务)
-* [会刊更新](#第五个问题之会刊更新)
-* [探索更多](#第六个问题之探索更多)
+* [会刊更新](#第四个问题之会刊更新)
+* [探索更多](#第五个问题之探索更多)
 
 ### 第一个问题之注册账号
 
@@ -60,19 +59,7 @@
 
 *  **用时**：收到回复邮件很快，但是我看到已经是当天傍晚。
 
-### 第四个问题之新手任务
-
-*  **问题阐述**：我尝试做[新手任务](https://github.com/casdu/introduction)，但是有些难度。
-
-*  **解决办法**：在百度上寻找更加通俗的教程[GitHub网页版开始教程](https://blog.csdn.net/wait_for_taht_day5/article/details/79587844)，在这里可以找到以下的步骤：
-   * 创建一个开源库
-   * 开始和管理一个新的分支
-   * 修改一个文件并且向GitHub提交这些修改
-   * 开启和合并一个合并请求
-
-*  **用时**：用了一个下午进行浏览，但是并未实际进行操作，因为在接下来的会刊更新中没有使用到修改合并，casdu/huikan这个仓库已经是出现在我的主页了，那么我就直接在网页端进行编辑了。
-
-### 第五个问题之会刊更新
+### 第四个问题之会刊更新
 
 *  **问题阐述**：首先我提到kuikan已经在我的目录，那么我直接在网页上进行编辑就可以，我在kuikan下新建立一个2019.md文件，但是只限于将手头的word文字码上去，不知道如何使用Markdown格式进行美化操作。
 *  **解决办法**：[百度(GitHub上README.md排版样式教程)](https://blog.csdn.net/weixin_39923425/article/details/79584378)、GitHubGuides[LearnMarkdown](https://guides.github.com/features/mastering-markdown/)、提出新的ISSUE向有经验者进行询问、查找已经更新的2018.md点击history[查看以往的代码](https://github.com/casdu/huikan/commit/c2ef5b1248072c59ef5848928fdb8421073875f3#diff-482416b57c0af3e14b6c5c55da5373cb)。
@@ -81,17 +68,29 @@
    * 1、各级标题（用于区分重要性、文章标题等）
    * 2、缩进    （用于作者介绍、引用他人文字）  
    * 3、超链接  （用于目录与文章标题跳转、回到目录、转到外部链接等）
-   * 4、分级    （更加美观的目录显示）：
+   * 4、分级    （更加美观的目录显示）
    * 5、空格    （用于不同格式之间的切断，上面的操作中空格同样非常重要）
 
 *  **用时**：markdown格式学习以及初次录入一篇文章约一个下午。引入目录花费30分钟。  
-          断断续续进行更新，偶尔更新几篇的频率，在转载过程中又是一次新的阅读，在完成全部2019.md录入约一个月。
+          断断续续进行更新，偶尔更新几篇的频率，在转载过程中又是一次新的阅读，完成全部2019.md录入约一个月。
 
-###  第六个问题之探索更多
-*   **问题阐述**：后续markdown格式探索之图片显示、表格显示、表情显示
+###  第五个问题之探索更多
+
+*   **问题阐述1**：后续markdown格式探索之图片显示、表格显示、表情显示
 *   **解决办法**：[图片显示](https://blog.csdn.net/itmyhome1990/article/details/48765703?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)、[表格显示](https://blog.csdn.net/tuxingchen6/article/details/55222951#comments)、[表情显示](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion)
 *   **用时**：不定时瞅瞅 :rofl:
 
+*  **问题阐述2**：我想要对别人已经完成的一些操作进行自己的修改。
+*  **解决办法**:在百度上找到一个简易教程：[GitHub网页版开始教程](https://blog.csdn.net/wait_for_taht_day5/article/details/79587844)，在这里可以找到以下的步骤：
+   * 创建一个开源库
+   * 开始和管理一个新的分支
+   * 修改一个文件并且向GitHub提交这些修改
+   * 开启和合并一个合并请求
+*   **用时**:to be continue...
+
+*   **问题阐述3**：我想搜索更多有意思的仓库。
+*   **解决办法**：[GitHub 的搜索功能](https://blog.csdn.net/csdnnews/article/details/86570635)
+*   **用时**：to be continue...
 
 ## 最后谈一些我对于Github 的理解:
 
